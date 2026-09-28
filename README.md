@@ -1,6 +1,6 @@
 <h3 align="center">Linux Security, VRC Engineering, & Software Developer</h3>
 
-- 📫 How To Reach Me **joseph.rice26@flhsemail.org**
+- 📫 How To Reach Me **https://discordapp.com/users/865430773502050315**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
