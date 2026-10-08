@@ -5,7 +5,7 @@
 
 ### Languages && Skills:
 **Systems Administration**  
-  - Linux System Administration: Ubuntu, Debian, Linux Mint, Fedora, Arch Linux, Kali Linux, and Parrot OS  
+  - Linux System Administration: Ubuntu, Debian, Linux Mint, Fedora, FreeBSD, Arch Linux, Kali Linux, and Parrot OS  
   - Windows System Administration: Windows 11/10, Windows Server 2025/2022/2019, and Active Directory  
   - Languages: Python, Bash, PowerShell, C++, C, and Rust
 
